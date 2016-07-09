@@ -1,0 +1,14 @@
+layout_spectrum: 0.12859915453009307
+typography_spectrum: 0.512396392878145
+color:
+  brandStrength: 0.4295489275828004
+  lightness: 0.6554401500616223
+  saturation: 0.4494137030560523
+  rhythmicContrast: 0.8957803533412516
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'ABCS: Access Beyond Coaching Services'
