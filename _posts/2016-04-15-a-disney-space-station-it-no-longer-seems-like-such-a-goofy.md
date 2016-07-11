@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-11T03:03:08.743Z'
+datePublished: '2016-07-11T03:18:52.440Z'
 sourcePath: >-
   _posts/2016-04-15-a-disney-space-station-it-no-longer-seems-like-such-a-goofy.md
 inFeed: true
@@ -32,7 +32,7 @@ author:
   - name: TEDx Talks
     url: 'https://www.youtube.com/user/TEDxTalks'
     avatar: {}
-dateModified: '2016-07-11T02:50:19.806Z'
+dateModified: '2016-07-11T03:08:28.017Z'
 title: 'NEW Possibilities: Living with PTSD'
 app_links: []
 publisher:
@@ -54,6 +54,10 @@ _type: MediaObject
 
 > https://youtu.be/BEHDQeIRTgs
 
+> [The effect of trauma on the brain and how it affects behaviors | John Rigg | TEDxAugusta][1]
+> 
+> https://youtu.be/m9Pg4K1ZKws
+
 NEW Possibilities with PTSD
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FORs3-tRokGU%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DORs3-tRokGU&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FORs3-tRokGU%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
@@ -67,3 +71,4 @@ NEW Possibilities with PTSD
 
 
 [0]: https://youtu.be/BEHDQeIRTgs
+[1]: https://youtu.be/m9Pg4K1ZKws
