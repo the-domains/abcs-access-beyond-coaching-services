@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ABCS: Access Beyond Coaching Services]]></title>
+        <description><![CDATA[ABCS: Access Beyond Coaching Services]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jul 2016 03:03:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NEW Possibilities: Living with PTSD]]></title>
+            <description><![CDATA[<article><h1>NEW Possibilities: Living with PTSD</h1><p>NEW Possibilities with PTSD</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35982efbca004c020d4dbc5dae4ef735/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FBEHDQeIRTgs%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
+            <guid isPermaLink="false">d6eb4459-797b-43b2-b174-51e50f09e876</guid>
+            <pubDate>Mon, 11 Jul 2016 03:03:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
