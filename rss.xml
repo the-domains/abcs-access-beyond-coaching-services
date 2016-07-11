@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ABCS: Access Beyond Coaching Services]]></title>
         <description><![CDATA[ABCS: Access Beyond Coaching Services]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/abcs-access-beyond-coaching-services/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 03:03:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 03:09:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/abcs-access-beyond-coaching-services/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Return from Chaos: Treating PTSD | Peter Tuerk | TEDxCharleston]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/913b2d99-fc5b-42f0-b796-8f58bf16d7d0.jpg" alt="Talking About PTSD">]]></description>
+            <link>http://www.spoon-tamago.com/2016/03/14/kazuyo-sejima-to-design-next-generation-bullet-train-that-melds-into-the-environment/</link>
+            <guid isPermaLink="false">93e29eac-f57d-4f90-add7-8a46e4db2b7e</guid>
+            <pubDate>Mon, 11 Jul 2016 03:09:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NEW Possibilities: Living with PTSD]]></title>
             <description><![CDATA[<article><h1>NEW Possibilities: Living with PTSD</h1><p>NEW Possibilities with PTSD</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/35982efbca004c020d4dbc5dae4ef735/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FBEHDQeIRTgs%2Fmaxresdefault.jpg"></article>]]></description>
